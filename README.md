@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="[URL_REDIRECT](https://giphy.com/embed/UtgTXKxegxHcku4tEa)" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://giphy.com/embed/UtgTXKxegxHcku4tEa)" height="100" /></a>
+#<a href="[URL_REDIRECT](https://giphy.com/embed/UtgTXKxegxHcku4tEa)" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://giphy.com/embed/UtgTXKxegxHcku4tEa)" height="100" /></a>
 
 <!--
 **devi-shamps/devi-shamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
