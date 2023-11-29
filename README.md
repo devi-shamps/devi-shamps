@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://discord.gg/selfdev" target="_blank"><img src="https://giphy.com/embed/UtgTXKxegxHcku4tEa" width="150" alt="self.dev logo"/></a>
+</p>
 <img align="center" url="https://giphy.com/embed/UtgTXKxegxHcku4tEa" height="100" />
 
 <!--
