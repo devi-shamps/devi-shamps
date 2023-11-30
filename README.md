@@ -5,6 +5,7 @@
 🌱 I’m currently learning React and Three js to create me portfolio
 
 📫 How to reach me: - <a href="https://www.instagram.com/dim_dcp/" style="text-decoration: none; color: black;"><img src="https://pic.clubic.com/v1/images/1411660/raw"  width="15" alt="self.dev logo"/> @dim-dcp</a>
+                     - tg
 
 <!--
 **devi-shamps/devi-shamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
