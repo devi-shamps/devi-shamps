@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
   <a href="https://media.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" target="_blank"><img src="https://media.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" width="150" alt="self.dev logo"/></a>
 </p>
 <img align="center" url="https://giphy.com/embed/UtgTXKxegxHcku4tEa" height="100" />
