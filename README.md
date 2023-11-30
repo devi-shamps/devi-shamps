@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://discord.gg/selfdev" target="_blank"><img src="[https://giphy.com/embed/UtgTXKxegxHcku4tEa](https://media.tenor.com/yCFHzEvKa9MAAAAi/hello.gif)" width="150" alt="self.dev logo"/></a>
+  <a href="https://media.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" target="_blank"><img src="https://media.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" width="150" alt="self.dev logo"/></a>
 </p>
 <img align="center" url="https://giphy.com/embed/UtgTXKxegxHcku4tEa" height="100" />
 
