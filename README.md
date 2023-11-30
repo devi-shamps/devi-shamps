@@ -4,7 +4,7 @@
 </p>
 🌱 I’m currently learning React and Three js to create me portfolio
 
-
+📫 How to reach me: <img src="https://pic.clubic.com/v1/images/1411660/raw"  width="15" alt="self.dev logo"/>
 
 <!--
 **devi-shamps/devi-shamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
