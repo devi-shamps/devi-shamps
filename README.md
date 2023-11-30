@@ -1,9 +1,8 @@
-### Hi there 👋
-
 <p>
   <img src="https://media.tenor.com/hSgzyPpnnnUAAAAi/nueva-creative-hello.gif" width="150" alt="self.dev logo"/>
 </p>
-<img align="center" url="https://giphy.com/embed/UtgTXKxegxHcku4tEa" height="100" />
+### Hi there 👋
+
 
 <!--
 **devi-shamps/devi-shamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
