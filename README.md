@@ -2,9 +2,9 @@
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif"  width="150" alt="self.dev logo"/>
 </p>
-🌱 I’m currently learning ...
+🌱 I’m currently learning React and Three js to create me portfolio
 
-📫 How to reach me: ...
+📫 How to reach me: <img src="https://pic.clubic.com/v1/images/1411660/raw"  width="150" alt="self.dev logo"/>
 
 <!--
 **devi-shamps/devi-shamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
