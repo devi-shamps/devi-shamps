@@ -1,5 +1,5 @@
 <p>
-  <img src="https://media.tenor.com/hSgzyPpnnnUAAAAi/nueva-creative-hello.gif" width="150" alt="self.dev logo"/>
+  <img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif"  width="150" alt="self.dev logo"/>
 </p>
 <h1>Me name is Dimitri !</h1>
 
